@@ -21,3 +21,4 @@ CREATE TABLE users (
 );
 ```
 
+Нагло свиснул код
